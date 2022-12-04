@@ -20,4 +20,4 @@ As I mentiond this one is our first hackathon so, getting the new vibe and exper
 
 ## ⏭  What's next for Campus Diary 📑
 
-Plan to store all the data of user in a blockchain,adding leaderboards, best doubt solver of the campusa and things to encourage them also adding more features to ease your campus life.
+Plan to store all the data of user in a blockchain, some pages are static so turning them into dynamic, adding leaderboards, best doubt solver of the campus and things to encourage them also adding more features to ease your campus life.
