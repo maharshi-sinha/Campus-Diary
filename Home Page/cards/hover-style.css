@@ -1,0 +1,70 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: poppins;
+    background-color: rgb(199, 200, 207);
+
+}
+.wrapper,
+.single-card{
+    height: 450px;
+    max-width:300px;
+    margin: relative;
+}
+.wrapper{
+    perspective: 900px;
+}
+.single-card{
+    text-align: center;
+    transition: all 1.5s cubic-bezier(0.7, -.5, 0.3 ,1.8);
+    transform-style: preserve-3d;
+}
+.wrapper:hover .single-card{
+    transform: rotateY(180deg);
+}
+.front,.back{
+    width: 300px;
+    position: relative;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+
+}
+.front{
+    cursor: pointer;
+    height: 100%;
+    background-image: url(https://i.postimg.cc/zvjnn3nD/b.jpg);
+    backface-visibility: hidden;
+    border-radius: 50px;
+    background-size: contain;
+    background-position: center center;
+/* /*   background-color:pink; */ 
+
+}
+.back{
+    transform: rotateY(180deg);
+    position: absolute;
+    border-radius: 50px;
+    height: 450px;
+    background: #ffffff;
+}
+.content{
+    padding-top: 25%;
+}
+.content h2{
+    font-size: 35px;
+    margin: 0;
+    font-weight: 300;
+}
+.content h4{
+    margin: 0;
+}
+.socials{
+    margin-top: 20%;
+}
+.socials i{
+    font-size: 30px;
+    margin: 0 10px;
+}
