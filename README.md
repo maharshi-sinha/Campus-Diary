@@ -8,7 +8,7 @@ We built it by using HTML, CSS and javascript and bit of bootstrap.We firstly cr
 
 ## 💪 Challenges we ran into:
 
-This one is our first hackathon so managing time, adding all the pages and checking their responsiveness, data and all were small hurdles that've faced during creating this but finding out the soulution is the great thing ever.
+This one is our first hackathon so managing time, adding all the pages and checking their responsiveness, data and all were small hurdles that've faced during creating this but finding out the solution is the great thing ever.
 
 ## 📌 Accomplishments that we're proud of 📣
    
