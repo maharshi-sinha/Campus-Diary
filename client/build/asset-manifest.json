@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ba5913a.css",
+    "main.js": "/static/js/main.8ffd76cd.js",
+    "static/js/787.3a699bad.chunk.js": "/static/js/787.3a699bad.chunk.js",
+    "static/media/hero-banner-bg.png": "/static/media/hero-banner-bg.dbc6cf4ea0481fe1779a.png",
+    "static/media/year1.png": "/static/media/year1.988aa1369141eae57c13.png",
+    "static/media/IT.jpg": "/static/media/IT.5a0b2e02c13127cbe0b5.jpg",
+    "static/media/ET.jpg": "/static/media/ET.702cfde8ebb4b9bb14eb.jpg",
+    "static/media/Maths.png": "/static/media/Maths.6850e8981fc137023a37.png",
+    "static/media/Civil.jpg": "/static/media/Civil.0c2a19c701d507b5500e.jpg",
+    "static/media/Mechanical.jpg": "/static/media/Mechanical.1e96d7241d708e199332.jpg",
+    "static/media/boy.svg": "/static/media/boy.7d6720e159d4191316914e61b0537218.svg",
+    "static/media/Electrical.jpg": "/static/media/Electrical.8e714e8a3e7125c86215.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9ba5913a.css.map": "/static/css/main.9ba5913a.css.map",
+    "main.8ffd76cd.js.map": "/static/js/main.8ffd76cd.js.map",
+    "787.3a699bad.chunk.js.map": "/static/js/787.3a699bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba5913a.css",
+    "static/js/main.8ffd76cd.js"
+  ]
+}

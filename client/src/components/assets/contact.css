@@ -1,0 +1,101 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+  @import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+input{
+    background-color: transparent;
+    
+}
+::placeholder { 
+    color: rgb(253, 253, 253);
+    opacity: 1; /* Firefox */
+  }
+
+
+body{
+    background: linear-gradient(90deg, #1595b9 0%, #0e1e7a 100%);
+}
+.header_area{background: linear-gradient(90deg, #1595b9 0%, #0e1e7a 100%);}
+.contact{
+    
+    
+    width: 80%;
+    display: block;
+    margin: 4rem auto;
+    border-radius: 3rem;  
+    box-shadow: 0 20px 25px -5px rgba(0 0 0 / .10),
+    0 10px 10px -5px rgba(0 0 0 / .04);
+}
+.container h1{
+    color:#d8d8d8a8;
+    font-family: 'Teko', sans-serif;
+}
+.form-title{
+    color: purple;
+    margin-top: 3rem;
+    text-align: center;
+}
+.form-group input{
+    border-radius: 4px;
+    border-style: none;margin: 1rem;
+
+    
+}
+.submit{
+    background-color: rgb(173, 80, 173);
+    width: 6rem;
+    margin: auto;
+    box-shadow: 0 40px 35px -5px rgba(0 0 0 / .10),
+    0 10px 10px -5px rgba(0 0 0 / .04);
+}
+.contact-form{
+    display: grid;
+    place-items: center;
+    width: 50%;
+}
+.contact-content{
+    display: flex;
+    flex-direction: row;
+}
+.contact-content img{
+    width: 20%;
+    margin: 3rem;
+   
+}
+.mt-5 {
+    margin-top: 12rem!important;
+}
+.contactpage-form{
+    top: 0px;
+  position: relative;
+}
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+
+@media screen and (max-width: 768px){
+    .contact-content{
+        
+        flex-direction: column;
+    }
+    .contact-content img {
+        width: 50%;
+    margin: none;
+    
+    }
+       
+    .first, .second, .third {
+        
+        flex-direction: column;
+    }
+}
